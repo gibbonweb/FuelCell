@@ -8,6 +8,7 @@ namespace fuelcell;
 define('HYDROGEN_AUTOCONFIG_PATH',
 	__DIR__ . '/../../config/hydrogen.autoconfig.php');
 require_once(__DIR__ . '/../hydrogen/hydrogen.inc.php');
+require_once(__DIR__ . '/../php-markdown/hydrogen.inc.php');
 
 use hydrogen\autoloader\Autoloader;
 Autoloader::registerNamespace('fuelcell', __DIR__);
