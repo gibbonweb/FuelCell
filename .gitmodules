@@ -1,0 +1,3 @@
+[submodule "lib/hydrogen"]
+	path = lib/hydrogen
+	url = https://github.com/TomFrost/Hydrogen.git
