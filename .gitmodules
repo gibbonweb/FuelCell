@@ -1,3 +1,6 @@
 [submodule "lib/hydrogen"]
 	path = lib/hydrogen
 	url = https://github.com/TomFrost/Hydrogen.git
+[submodule "lib/php-markdown"]
+	path = lib/php-markdown
+	url = https://github.com/michelf/php-markdown.git
